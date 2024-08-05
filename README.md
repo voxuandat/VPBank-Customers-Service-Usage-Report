@@ -9,6 +9,3 @@ PowerBI, Business strategy, Banking domain knowledge
 -	Segmented customers based on service usage patterns, demographics, and potential value
 -	Identified upsell and cross-sell opportunities for each customer segment.
 -	Recommended specific strategies to achieve a 20% revenue increase, including targeted promotions, product introductions, and enhanced customer experiences.
-
-### **Value**: 
-Provided data-driven insights in customers’ usage patterns & recommendations to achieve 20% revenue growth
